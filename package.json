@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "add": "^2.0.6",
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "mysql2": "^1.5.2",
     "pg": "6",
@@ -12,5 +13,7 @@
     "sequelize": "^4.35.1",
     "sequelize-cli": "^4.0.0",
     "yarn": "^1.5.1"
-  }
+  },
+  "repository": "git@github.com:fredster7474/homework3.git",
+  "author": "Freddie Simons <freddie_simons@hotmail.co.uk>"
 }
